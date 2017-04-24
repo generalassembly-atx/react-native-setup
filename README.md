@@ -100,3 +100,13 @@ Restart the Command Prompt to apply the new environment variable.
 
 Please make sure you export the correct path for ANDROID_HOME if you did not install the Android SDK using Android Studio.
 
+### Android Studio Install Part 3
+
+You can see the list of available AVDs by opening the "AVD Manager" from within Android Studio. You can also run the following command in a terminal:
+
+```
+android avd
+```
+Once in the "AVD Manager", select your AVD and click "Edit...". Choose "Android 6.0 - API Level 23" under Device, and "Intel Atom (x86_64)" under CPU/ABI. Click OK, then select your new AVD and click "Start...", and finally, "Launch".
+
+
