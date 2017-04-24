@@ -85,7 +85,9 @@ Set up the ANDROID_HOME environment variable
 
 The React Native command line interface requires the ANDROID_HOME environment variable to be set up.
 
+```
 Go to Control Panel → System and Security → System → Change settings → Advanced System Settings → Environment variables → New, then enter the path to your Android SDK.
+```
 
 env variable
 
