@@ -24,7 +24,7 @@ Next tool that you are going to need is the XCode tool, which you can download f
 
 [XCode Can be found Here](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 
-Now go to your directory where you wish to create the project to create the project and then open the project up in XCode:
+Now go to your directory where you wish to create the project and then open the project up in XCode:
 
 ```
 react-native init Hello-World
