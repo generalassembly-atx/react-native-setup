@@ -36,7 +36,7 @@ This should open up the base template for your React Native project.
 
 ## React Native for Windows on Android
 
-On important difference between Windows and Mac OSX when it comes to React Native is that while Mac can develop for both Android and IOS. Windows computer can only develop React Native for Android for the time being. 
+One important difference between Windows and Mac OSX when it comes to React Native is that while Mac can develop for both Android and IOS. Windows computer can only develop React Native for Android for the time being. 
 
 Before you run the following commands you will need to install Chocolatey. The instructions on how to install Chocolatey can be found on their website:
 [How to Install Chocolatey](https://chocolatey.org/install)
