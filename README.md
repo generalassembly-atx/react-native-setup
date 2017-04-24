@@ -12,3 +12,13 @@ First thing you will need to do is install Node and Watchman:
 brew install node
 brew install watchman
 ```
+
+After that you will need to install the React-Native-CLI:
+
+```
+npm install -g react-native-cli
+```
+
+Next tool that you are going to need is the XCode tool, which you can download from the App Store:
+
+[XCode Can be found Here](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
