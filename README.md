@@ -46,3 +46,20 @@ In order get started you will want to install Python2 and Node.js via the termin
 choco install nodejs.install
 choco install python2
 ```
+
+Once Node and Python are installed you can then install the React Native Command Line Interface.
+
+```
+npm install -g react-native-cli
+
+```
+
+Now that the Command Line Interface is installed you will need to install Android studio on your computer. Make sure to choose "Custom" installation when running Android Studio for the first time. Make sure the boxes next to all of the following are checked:
+
+Android SDK
+Android SDK Platform
+Performance (Intel ® HAXM)
+Android Virtual Device
+Then, click "Next" to install all of these components.
+
+[Android Studio Install](https://developer.android.com/studio/install.html)
