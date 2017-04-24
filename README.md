@@ -33,3 +33,13 @@ react-native run-ios
 ```
 
 This should open up the base template for your React Native project.
+
+## React Native for Windows on Android
+
+On important difference between Windows and Mac OSX when it comes to React Native is that while Mac can develop for both Android and IOS. Windows computer can only develop React Native for Android for the time being. 
+
+In order get started you will want to install Python2 and Node.js via the terminal: 
+```
+choco install nodejs.install
+choco install python2
+```
