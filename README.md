@@ -63,3 +63,17 @@ Android Virtual Device
 Then, click "Next" to install all of these components.
 
 [Android Studio Install](https://developer.android.com/studio/install.html)
+
+Android Studio installs the most recent Android SDK by default. React Native, however, requires the Android 6.0 (Marshmallow) SDK. To install it, launch the SDK Manager, click on "Configure" > "SDK Manager" in the "Welcome to Android Studio" screen.
+
+```
+The SDK Manager can also be found within the Android Studio "Preferences" menu, under Appearance & Behavior → System Settings → Android SDK.
+```
+
+Select the "SDK Platforms" tab from within the SDK Manager, then check the box next to "Show Package Details" in the bottom right corner. Look for and expand the Android 6.0 (Marshmallow) entry, then make sure the following items are all checked:
+
+Google APIs
+Android SDK Platform 23
+Intel x86 Atom_64 System Image
+Google APIs Intel x86 Atom_64 System Image
+
