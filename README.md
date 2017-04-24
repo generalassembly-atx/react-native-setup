@@ -110,3 +110,21 @@ android avd
 Once in the "AVD Manager", select your AVD and click "Edit...". Choose "Android 6.0 - API Level 23" under Device, and "Intel Atom (x86_64)" under CPU/ABI. Click OK, then select your new AVD and click "Start...", and finally, "Launch".
 
 
+### Android Studio Install Part 4
+Use the React Native command line interface to generate a new React Native project called "Hello-World", then run react-native start inside the newly created folder to start the packager.Now to create your project and open the newly create React Native App run the following in the terminal: 
+
+```
+react-native init Hello-World
+cd Hello-World
+react-native start
+
+```
+
+Open a new command prompt and run react-native run-android inside the same folder to launch the app on your Android emulator.
+
+```
+react-native run-android
+```
+
+If everything is set up correctly, you should see your new app running in your Android emulator shortly.
+
