@@ -72,8 +72,8 @@ The SDK Manager can also be found within the Android Studio "Preferences" menu, 
 
 Select the "SDK Platforms" tab from within the SDK Manager, then check the box next to "Show Package Details" in the bottom right corner. Look for and expand the Android 6.0 (Marshmallow) entry, then make sure the following items are all checked:
 
--Google APIs
--Android SDK Platform 23
--Intel x86 Atom_64 System Image
--Google APIs Intel x86 Atom_64 System Image
+- Google APIs
+- Android SDK Platform 23
+- Intel x86 Atom_64 System Image
+- Google APIs Intel x86 Atom_64 System Image
 
