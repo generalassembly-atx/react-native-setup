@@ -83,6 +83,8 @@ Next, select the "SDK Tools" tab and check the box next to "Show Package Details
 
 Finally, click "Apply" to download and install the Android SDK and related build tools.
 
+### Android Studio Install Part 2 
+
 Set up the ANDROID_HOME environment variable 
 
 The React Native command line interface requires the ANDROID_HOME environment variable to be set up.
