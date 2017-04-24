@@ -64,6 +64,8 @@ Then, click "Next" to install all of these components.
 
 [Android Studio Install](https://developer.android.com/studio/install.html)
 
+### Android Studio Install Part 1
+
 Android Studio installs the most recent Android SDK by default. React Native, however, requires the Android 6.0 (Marshmallow) SDK. To install it, launch the SDK Manager, click on "Configure" > "SDK Manager" in the "Welcome to Android Studio" screen.
 
 ```
@@ -86,10 +88,11 @@ Set up the ANDROID_HOME environment variable
 The React Native command line interface requires the ANDROID_HOME environment variable to be set up.
 
 ```
-Go to Control Panel → System and Security → System → Change settings → Advanced System Settings → Environment variables → New, then enter the path to your Android SDK.
+Go to Control Panel → System and Security → System → Change settings → 
+Advanced System Settings → Environment variables → 
+New, then enter the path to your Android SDK.
 ```
 
-env variable
 
 Restart the Command Prompt to apply the new environment variable.
 
