@@ -77,3 +77,19 @@ Select the "SDK Platforms" tab from within the SDK Manager, then check the box n
 - Intel x86 Atom_64 System Image
 - Google APIs Intel x86 Atom_64 System Image
 
+Next, select the "SDK Tools" tab and check the box next to "Show Package Details" here as well. Look for and expand the "Android SDK Build Tools" entry, then make sure that Android SDK Build-Tools 23.0.1 is selected.
+
+Finally, click "Apply" to download and install the Android SDK and related build tools.
+
+Set up the ANDROID_HOME environment variable 
+
+The React Native command line interface requires the ANDROID_HOME environment variable to be set up.
+
+Go to Control Panel → System and Security → System → Change settings → Advanced System Settings → Environment variables → New, then enter the path to your Android SDK.
+
+env variable
+
+Restart the Command Prompt to apply the new environment variable.
+
+Please make sure you export the correct path for ANDROID_HOME if you did not install the Android SDK using Android Studio.
+
